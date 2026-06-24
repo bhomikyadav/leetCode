@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/bhomikyadav/leetCode/tree/master/0189-rotate-array) |
+| [1207-unique-number-of-occurrences](https://github.com/bhomikyadav/leetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/bhomikyadav/leetCode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/bhomikyadav/leetCode/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
