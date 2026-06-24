@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bhomikyadav/leetCode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/bhomikyadav/leetCode/tree/master/0189-rotate-array) |
 | [1207-unique-number-of-occurrences](https://github.com/bhomikyadav/leetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Math
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/bhomikyadav/leetCode/tree/master/1207-unique-number-of-occurrences) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/bhomikyadav/leetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
