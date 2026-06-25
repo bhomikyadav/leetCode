@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/bhomikyadav/leetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhomikyadav/leetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -24,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bhomikyadav/leetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/bhomikyadav/leetCode/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhomikyadav/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
