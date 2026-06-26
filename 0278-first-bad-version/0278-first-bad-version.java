@@ -13,7 +13,6 @@ public class Solution extends VersionControl {
                 end = mid - 1;
             else
                 start = mid + 1;
-            
             mid = start+(end-start)/2;
 
         }
